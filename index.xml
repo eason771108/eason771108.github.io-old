@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Future Imperfect Slim</title>
+    <title>Ethan&#39;s Blog</title>
     <link>https://eason771108.github.io/</link>
-    <description>Recent content on Hugo Future Imperfect Slim</description>
+    <description>Recent content on Ethan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <language>zh-TW</language>
+    <lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://eason771108.github.io/index.xml" rel="self" type="application/rss+xml" />
     
